@@ -8,6 +8,11 @@ wheels/
 t.py
 *.docx
 Lessons/*
+.vscode/
+uv.lock
+pyproject.toml
+.python-version
+.mypy_cache/
 
 # Virtual environments
 .venv
