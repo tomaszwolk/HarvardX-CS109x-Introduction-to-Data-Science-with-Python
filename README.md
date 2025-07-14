@@ -1,3 +1,3 @@
-In ISLP - Lab sections from book: Introduction to Statistical Learning, With Applications in Python.
+# HarvardX CS109x Introduction to Data Science with Python  
 
-Exercises are not one-to-one. I have added some data.
+Here are my solutions to the exercises, and ISLP lab sections from book: Introduction to Statistical Learning, With Applications in Python.
